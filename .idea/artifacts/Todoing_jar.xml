@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Todoing:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Todoing_jar</output-path>
+    <root id="archive" name="Todoing.jar">
+      <element id="module-output" name="Todoing" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../ALLJAVA/Connector/lib/mysql-connector-j-8.0.33.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
